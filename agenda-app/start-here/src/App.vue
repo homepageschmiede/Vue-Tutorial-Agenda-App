@@ -33,7 +33,7 @@ export default {
       events: [
         {
           time: "10:00",
-          title: "Breakfast with Simon123 ",
+          title: "Breakfast with Simon1234 ",
           location: "Lounge Caffe",
           description: "Discuss Q3 targets"
         },
